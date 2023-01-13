@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable-v24/palette_pressed.xml" value="0.2255" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable/brush_size_large.xml" value="0.2255" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable/brush_size_medium.xml" value="0.2255" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable/brush_size_small.xml" value="0.2255" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable/drawing_view_bg.xml" value="0.179" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/drawable/palette_normal.xml" value="0.2255" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/layout/brush_size_dialog.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/layout/custom_progress_dialog_layout.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/layout/custom_progress_download.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/mayoo/AndroidStudioProjects/TrenchesCanva/app/src/main/res/layout/dialog_custom_progress.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

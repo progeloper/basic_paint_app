@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trenches Canva</string>
+    <string name="small_brush_icon">small brush icon</string>
+    <string name="medium_brush_button">medium brush button</string>
+    <string name="large_brush_button">large brush icon</string>
+    <string name="brush_icon">Brush icon to open dialog</string>
+    <string name="color_from_color_palette">color from color palette</string>
+    <string name="undo_icon">undo icon</string>
+    <string name="gallery_icon">gallery icon</string>
+    <string name="save_button">save button</string>
+    <string name="share">SHARE</string>
+</resources>
